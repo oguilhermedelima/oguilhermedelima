@@ -1,7 +1,7 @@
 ## Oi, eu sou o Guilherme de Lima
 
-- 🔭 Estagiário em Prefeitura Municipal de Caçapava - SP
-- 🌱 Estudando desenvolvimento web
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Etep
+- 🌱 Foco em desenvolvimento web
 
 <div>
   <a href="https://github.com/oguilhermedelima">
