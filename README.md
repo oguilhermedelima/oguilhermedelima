@@ -1,4 +1,4 @@
-## Oi, eu sou o Guilherme de Lima
+## Eu sou o Guilherme de Lima
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Etep
 - 🌱 Foco em desenvolvimento web
