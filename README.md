@@ -1,7 +1,7 @@
 ## Guilherme de Lima
 
 - 🔭 Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Etep
-- 🌱 Foco em desenvolvimento web
+- 🌱 Desenvolvedor Front end
 
 <div>
   <a href="https://github.com/oguilhermedelima">
